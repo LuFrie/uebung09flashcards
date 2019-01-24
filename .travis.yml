@@ -3,5 +3,4 @@ install: gradle
 jdk:
 - oraclejdk8
 
-script:
-./gradlew assemble
+
