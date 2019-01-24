@@ -1,0 +1,6 @@
+language: java
+install: gradle
+jdk:
+- oraclejdk8
+
+./gradlew check
