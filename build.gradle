@@ -30,6 +30,7 @@ spotbugs{
 }
 
 
+
 jar {
     manifest {
         attributes("Main-Class": "de.tud.cs.se.flashcards.Main")
